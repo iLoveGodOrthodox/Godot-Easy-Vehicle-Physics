@@ -1,5 +1,5 @@
 # Portions are Copyright (c) 2021 Dechode
-# https://github.com/Dechode/Godot-Advanced-Vehicle
+# https://github.com/Dechode/Godot-Advanced-Vehicle 
 
 class_name Vehicle
 extends RigidBody3D
